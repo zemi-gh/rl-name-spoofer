@@ -1,0 +1,6 @@
+customtkinter
+mitmproxy
+opencv-python
+pystray
+cryptography
+Pillow
